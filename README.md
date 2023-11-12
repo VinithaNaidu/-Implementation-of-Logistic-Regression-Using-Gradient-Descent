@@ -1,5 +1,6 @@
+## EXP NO. 05
 # Implementation-of-Logistic-Regression-Using-Gradient-Descent
-
+### Date : 05.10.23
 ## AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
 
